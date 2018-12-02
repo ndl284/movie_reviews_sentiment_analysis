@@ -1,11 +1,11 @@
-# movie_reviews_sentiment_analysis
+# Movie Reviews Sentiment Analysis
 
-### This project just covers a natural language processing, classification problem. Where the network needs to
-### train on and evaluate phrases in a movie review data set and classify them on a varying degree of negativity and
-### positivity e.g. very positive, mildly positive, neurtral etc.
+#### This project just covers a natural language processing, classification problem. Where the network needs to
+#### train on and evaluate phrases in a movie review data set and classify them on a varying degree of negativity and
+#### positivity e.g. very positive, mildly positive, neurtral etc.
 
-### The data set used for this is a rotten tomatoes dataset that I found on Kaggle (Link provided below.)
-### Kaggle Competition: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
+#### The data set used for this is a rotten tomatoes dataset that I found on Kaggle (Link provided below.)
+##### Kaggle Competition: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
 ## What I did?
 #### I just performed a little data processing before passing it through an embedding layer and training it on 
