@@ -11,6 +11,3 @@
 ##### I just performed a little data processing before passing it through an embedding layer and training it on 
 ##### two layers of LSTMs and a subsequent dense layers. Implemented the network using Keras and used pandas, numpy 
 ##### and nltk to process the text data, used matplotlib just to plot the accuracies and loss.
-
-## Result.
-##### Submitted the predictions from the test data set to Kaggle and got a score of 64%.
